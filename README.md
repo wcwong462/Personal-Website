@@ -1,4 +1,4 @@
-# Porfolio-Website
+# Personal-Website
 
 My Personal Website
 Welcome to my personal website! This site serves as a portfolio and a platform to showcase my projects, skills, and interests.
